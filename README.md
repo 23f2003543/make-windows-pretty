@@ -46,3 +46,7 @@ Zebar removed `.yaml` config in [v2.2.1](https://github.com/glzr-io/zebar/releas
 # Wallpaper
 
 - [Link](https://wallhaven.cc/w/76edpv)
+
+# YAZI file Explorer in CLI
+- [YAZI Installation Guid](https://yazi-rs.github.io/docs/installation#windows)
+- [YAZII quick start](https://yazi-rs.github.io/docs/quick-start)
