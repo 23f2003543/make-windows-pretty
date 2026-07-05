@@ -4,6 +4,7 @@
 
 - [Wezterm](https://wezfurlong.org/wezterm/index.html)
 - [Wezterm Config File](.wezterm.lua)
+- [Wezterm Cheatsheets](resources/assets/cheatsheet.png)
 
 > The font is a custom Iosevka installation from [here](https://typeof.net/Iosevka/customizer). This is my build plan [here](./private-build-plans.toml).
 
