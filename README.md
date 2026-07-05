@@ -1,5 +1,9 @@
 # My Windows Config
-
+# Open wezterm from File Exprorer
+type this in file exprore url
+```
+wezterm start --cwd .
+```
 # My Terminal Setup
 
 - [Wezterm](https://wezfurlong.org/wezterm/index.html)
